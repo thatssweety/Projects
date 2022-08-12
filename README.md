@@ -6,7 +6,7 @@
 - Tech Stack used - Python, Tensorflow, Computer Vision, CNN Classifier 
 ![alt text](https://github.com/thatssweety/Images/blob/efcd70d1f839a3dea9b10169c92c5790988f0e67/Screenshot%20(434).png?raw=true) 
 ## Project 2 : [Mall Customer Segmentation](https://thatssweety.github.io/Mall-Customer-Segmentation/)
-- Used the K-means algorithm to segment the customers according to similar characteristics (Kaggle Dataset).  
+- Used the K-means algorithm to segment the customers according to similar characteristics [(Kaggle Dataset)](https://github.com/thatssweety/Mall-Customer-Segmentation/blob/main/DATASET.zip).  
 - Used elbow method  to find an optimal number of clusters  
 ![download (2)](https://user-images.githubusercontent.com/81384066/184424607-ac29d4c3-e5c9-4026-80d0-9b1beb2925cf.png)
 ## Project 3 : [Breast Cancer Classification using ML](https://thatssweety.github.io/Breast-Cancer-Classification-using-ML/)
