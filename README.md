@@ -1,5 +1,5 @@
 # Projects
-## Project 1 : [Handwriting Recognition and classification Of Hindi Vowels](https://thatssweety.github.io/Handwriting-Recognition-and-Classification-Of-Hindi-Vowels/)
+## Project 1 : [Handwriting Recognition and Classification Of Hindi Vowels](https://thatssweety.github.io/Handwriting-Recognition-and-Classification-Of-Hindi-Vowels/)
 - Created [MNIST Dataset](https://github.com/thatssweety/Handwriting-Recognition-and-Classification-Of-Hindi-Vowels/blob/main/Dataset%20Vowels.zip) for Hindi vowels (13 classes) from scratch  
 - Build a multi-class image classifier using TensorFlow and Keras  
 - Achieved  over the accuracy of 97 percent on the validation set  
