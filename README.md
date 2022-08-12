@@ -10,7 +10,7 @@
 - Used elbow method  to find an optimal number of clusters  
 ![download (2)](https://user-images.githubusercontent.com/81384066/184424607-ac29d4c3-e5c9-4026-80d0-9b1beb2925cf.png)
 ## Project 3 : [Breast Cancer Classification using ML](https://thatssweety.github.io/Breast-Cancer-Classification-using-ML/)
-- Breast Cancer Wisconsin (Diagnostic) Dataset to predict whether the cancer is benign or malignant   
+- Breast Cancer [Wisconsin (Diagnostic) Dataset](https://github.com/thatssweety/Breast-Cancer-Classification-using-ML/blob/main/Breast%20cancer%20dataset.zip) to predict whether the cancer is benign or malignant   
 - Achieved accuracy of around 93 % on the test set 
 <img width="411" alt="Screenshot (449)" src="https://user-images.githubusercontent.com/81384066/184438755-0079ab34-f29b-4835-8ac3-78f1141d98ce.png">
 
