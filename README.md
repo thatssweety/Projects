@@ -10,7 +10,7 @@
 ## Project 2 : [FM Radio Jammer](https://thatssweety.github.io/FM-RADIO-JAMMER/)
 - A radio jammer is any device that deliberately blocks, jams or interferes with authorized wireless communications.
 - Hardware used : Trimmer Capacitor,Resistors,NE55 Timer, Ceramic Capacitors,Electrolytic Capacitors, Copper Coils, BF494 Transistor
-- Part of Vth Semester (Mechanical and Measurement Control System)
+- Part of Vth Semester Project (Mechanical and Measurement Control System)
 
 ![](https://github.com/thatssweety/FM-RADIO-JAMMER/blob/4ccfae71c331dc89c0faf46c2dd7d87dcb03da49/Project%20Pic%20(2)%20(1)%20(1).jpg)
 
